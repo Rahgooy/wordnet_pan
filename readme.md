@@ -10,4 +10,5 @@ This project contains our [paper's](http://www.uni-weimar.de/medien/webis/events
 
 ##Citation
 Please cite us as:
-*Mansoorizadeh, M., Rahgooy, T., Aminiyan, M., & Eskandari, M. (2016). Author Obfuscation using WordNet and Language Models—Notebook for PAN at CLEF 2016. In CLEF 2016 Evaluation Labs and Workshop–Working Notes Papers. CEUR-WS. org.*
+
+*Mansoorizadeh, M., Rahgooy, T., Aminiyan, M., & Eskandari, M. (2016). Author Obfuscation using WordNet and Language Modelsâ€”Notebook for PAN at CLEF 2016. In CLEF 2016 Evaluation Labs and Workshopâ€“Working Notes Papers. CEUR-WS. org.*
